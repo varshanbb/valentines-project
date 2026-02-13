@@ -1,0 +1,35 @@
+{
+  "VILLAIN_ERA": {
+    "HOPELESS_ROMANTIC": "Deep down, you're still soft — but only for someone who earns it.",
+    "HEALING_ICON": "This isn't cruelty. It's self-protection.",
+    "CHAOTIC_CUPID": "You act detached, but chaos follows you anyway."
+  },
+  "HOPELESS_ROMANTIC": {
+    "DELULU_DREAMER": "Your imagination fuels your love life.",
+    "SITUATIONSHIP_SURVIVOR": "You give too many chances."
+  },
+  "DELULU_DREAMER": {
+    "HOPELESS_ROMANTIC": "You believe in love stories — maybe a little too much.",
+    "CHAOTIC_CUPID": "Your dream board and your group chat are the same energy."
+  },
+  "SINGLE_PRINGLE": {
+    "LOWKEY_LOVER": "You're fine alone, but you'd choose the right person in a heartbeat.",
+    "VILLAIN_ERA": "Unbothered on main. Slightly bothered in the drafts."
+  },
+  "SITUATIONSHIP_SURVIVOR": {
+    "HEALING_ICON": "You've learned the hard way. Now you're building boundaries.",
+    "LOWKEY_LOVER": "You're done with drama. You want something real."
+  },
+  "CHAOTIC_CUPID": {
+    "DELULU_DREAMER": "Chaos and delusion — name a better duo.",
+    "SINGLE_PRINGLE": "You're having too much fun to settle (yet)."
+  },
+  "LOWKEY_LOVER": {
+    "HOPELESS_ROMANTIC": "You don't shout it from the rooftops, but you feel it deeply.",
+    "HEALING_ICON": "You protect your peace by choosing carefully."
+  },
+  "HEALING_ICON": {
+    "VILLAIN_ERA": "You've built walls. They're there for a reason.",
+    "LOWKEY_LOVER": "You're learning that soft doesn't mean weak."
+  }
+}

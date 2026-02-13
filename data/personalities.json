@@ -1,0 +1,58 @@
+{
+  "SINGLE_PRINGLE": {
+    "title": "Single Pringle 🌟",
+    "coreDescription": "You are single, stable, moisturized, unbothered, thriving. You genuinely enjoy your independence.",
+    "strengths": ["Emotionally self-sufficient", "Independent thinker", "High standards"],
+    "redFlags": ["Avoids vulnerability", "Pretends not to care when you do"],
+    "shareLines": ["Single by choice (mostly).", "Peace > Problems.", "My Valentine is self-respect."]
+  },
+  "HOPELESS_ROMANTIC": {
+    "title": "Hopeless Romantic 🌹",
+    "coreDescription": "You believe in soulmates, handwritten letters, and love that feels cinematic.",
+    "strengths": ["Deeply loving", "Emotionally expressive", "Sees beauty in people"],
+    "redFlags": ["Romanticizes bare minimum", "Falls too fast"],
+    "shareLines": ["Delusional but make it poetic.", "Love will find me.", "I saw potential and ran with it."]
+  },
+  "VILLAIN_ERA": {
+    "title": "Villain Era Valentine 🖤",
+    "coreDescription": "You decided softness got you nowhere. Now you're selective, mysterious, and slightly emotionally unavailable.",
+    "strengths": ["Confident", "Strong boundaries", "Independent"],
+    "redFlags": ["Pushes people away", "Overcorrects emotionally"],
+    "shareLines": ["I don't chase. I attract.", "Detached but desirable.", "Emotionally unavailable but hot."]
+  },
+  "DELULU_DREAMER": {
+    "title": "Delulu Dreamer ✨",
+    "coreDescription": "You live in a world where every situationship could be The One. Pinterest boards are your love language.",
+    "strengths": ["Hopeful", "Creative", "Sees possibility everywhere"],
+    "redFlags": ["Over-idealizes", "Ignores red flags"],
+    "shareLines": ["Delulu is the solulu.", "I'm not crazy, I'm manifesting.", "My board has 47 wedding pins."]
+  },
+  "HEALING_ICON": {
+    "title": "Healing Icon 🦋",
+    "coreDescription": "You're in your growth era. Journaling, therapy, and 'taking things slow' are your brand.",
+    "strengths": ["Self-aware", "Working on yourself", "Boundaries emerging"],
+    "redFlags": ["Overthinking", "Walls up too high sometimes"],
+    "shareLines": ["Healing isn't linear.", "I'm not cold, I'm protecting my peace.", "The best project is you."]
+  },
+  "SITUATIONSHIP_SURVIVOR": {
+    "title": "Situationship Survivor 💔",
+    "coreDescription": "You've been in the gray area one too many times. You know the rules: no labels, mixed signals, and 'we're just talking.'",
+    "strengths": ["Resilient", "Knows what you don't want", "Survived the chaos"],
+    "redFlags": ["Accepts breadcrumbs", "Stays too long in maybes"],
+    "shareLines": ["I've seen things.", "What are we? Still don't know.", "Survived 3 situationships. Still standing."]
+  },
+  "CHAOTIC_CUPID": {
+    "title": "Chaotic Cupid 🎲",
+    "coreDescription": "You're the friend who sends memes at 2 AM and turns every hangout into an adventure. Love is either a joke or deeply felt — no in-between.",
+    "strengths": ["Fun", "Keeps it real", "Never boring"],
+    "redFlags": ["Emotional whiplash", "Uses humor to deflect"],
+    "shareLines": ["Chaos is my love language.", "I sent 47 memes. That's affection.", "Unhinged but loyal."]
+  },
+  "LOWKEY_LOVER": {
+    "title": "Lowkey Lover 🕯️",
+    "coreDescription": "You don't need grand gestures. Cozy nights in, deep talks, and quiet intimacy are your vibe. Understated but devoted.",
+    "strengths": ["Genuine", "Low drama", "Quality over quantity"],
+    "redFlags": ["Sometimes too guarded", "Hard to read"],
+    "shareLines": ["I don't need a parade. I need a person.", "Quiet love hits different.", "Cozy > chaotic."]
+  }
+}

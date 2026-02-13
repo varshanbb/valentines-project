@@ -1,0 +1,134 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "It's February 14th. You're…",
+      "answers": {
+        "A": {
+          "text": "Lighting a candle and embracing the romance.",
+          "weights": { "HOPELESS_ROMANTIC": 3, "DELULU_DREAMER": 2, "LOWKEY_LOVER": 1 },
+          "redFlag": 0
+        },
+        "B": {
+          "text": "Treating it like a normal Tuesday.",
+          "weights": { "SINGLE_PRINGLE": 3, "LOWKEY_LOVER": 1 },
+          "redFlag": 0
+        },
+        "C": {
+          "text": "Posting 'I don't care' but secretly caring.",
+          "weights": { "HEALING_ICON": 2, "VILLAIN_ERA": 2 },
+          "redFlag": 1
+        },
+        "D": {
+          "text": "Planning your future wedding on Pinterest.",
+          "weights": { "DELULU_DREAMER": 3, "HOPELESS_ROMANTIC": 2 },
+          "redFlag": 1
+        },
+        "E": {
+          "text": "Saying relationships are distractions.",
+          "weights": { "VILLAIN_ERA": 3, "SINGLE_PRINGLE": 2 },
+          "redFlag": 2
+        }
+      }
+    },
+    {
+      "id": 2,
+      "text": "Your toxic trait in relationships?",
+      "answers": {
+        "A": { "text": "Falling too fast", "weights": { "HOPELESS_ROMANTIC": 3, "DELULU_DREAMER": 2 }, "redFlag": 2 },
+        "B": { "weights": { "HEALING_ICON": 2, "SITUATIONSHIP_SURVIVOR": 2 }, "redFlag": 1 },
+        "C": { "weights": { "VILLAIN_ERA": 3, "CHAOTIC_CUPID": 2 }, "redFlag": 3 },
+        "D": { "weights": { "HOPELESS_ROMANTIC": 3, "SITUATIONSHIP_SURVIVOR": 2 }, "redFlag": 2 },
+        "E": { "weights": { "VILLAIN_ERA": 3, "HEALING_ICON": 2 }, "redFlag": 3 }
+      }
+    },
+    {
+      "id": 3,
+      "text": "Your ideal date?",
+      "answers": {
+        "A": { "weights": { "HOPELESS_ROMANTIC": 3 }, "redFlag": 0 },
+        "B": { "weights": { "CHAOTIC_CUPID": 3 }, "redFlag": 1 },
+        "C": { "weights": { "LOWKEY_LOVER": 3 }, "redFlag": 0 },
+        "D": { "weights": { "DELULU_DREAMER": 3 }, "redFlag": 1 },
+        "E": { "weights": { "SINGLE_PRINGLE": 3, "VILLAIN_ERA": 1 }, "redFlag": 2 }
+      }
+    },
+    {
+      "id": 4,
+      "text": "Your relationship status?",
+      "answers": {
+        "A": { "weights": { "LOWKEY_LOVER": 2 }, "redFlag": 0 },
+        "B": { "weights": { "SITUATIONSHIP_SURVIVOR": 3 }, "redFlag": 2 },
+        "C": { "weights": { "HEALING_ICON": 3 }, "redFlag": 0 },
+        "D": { "weights": { "DELULU_DREAMER": 3 }, "redFlag": 1 },
+        "E": { "weights": { "VILLAIN_ERA": 3 }, "redFlag": 2 }
+      }
+    },
+    {
+      "id": 5,
+      "text": "Pick a song vibe:",
+      "answers": {
+        "A": { "weights": { "HOPELESS_ROMANTIC": 3 }, "redFlag": 0 },
+        "B": { "weights": { "SITUATIONSHIP_SURVIVOR": 3 }, "redFlag": 1 },
+        "C": { "weights": { "VILLAIN_ERA": 3 }, "redFlag": 2 },
+        "D": { "weights": { "DELULU_DREAMER": 3 }, "redFlag": 1 },
+        "E": { "weights": { "CHAOTIC_CUPID": 3 }, "redFlag": 2 }
+      }
+    },
+    {
+      "id": 6,
+      "text": "What scares you most?",
+      "answers": {
+        "A": { "weights": { "HOPELESS_ROMANTIC": 3 }, "redFlag": 0 },
+        "B": { "weights": { "VILLAIN_ERA": 2, "HEALING_ICON": 2 }, "redFlag": 2 },
+        "C": { "weights": { "LOWKEY_LOVER": 2 }, "redFlag": 1 },
+        "D": { "weights": { "DELULU_DREAMER": 2 }, "redFlag": 0 },
+        "E": { "weights": { "SITUATIONSHIP_SURVIVOR": 2 }, "redFlag": 1 }
+      }
+    },
+    {
+      "id": 7,
+      "text": "Your love language?",
+      "answers": {
+        "A": { "weights": { "HOPELESS_ROMANTIC": 2 }, "redFlag": 0 },
+        "B": { "weights": { "CHAOTIC_CUPID": 2 }, "redFlag": 1 },
+        "C": { "weights": { "LOWKEY_LOVER": 3 }, "redFlag": 0 },
+        "D": { "weights": { "HEALING_ICON": 2 }, "redFlag": 0 },
+        "E": { "weights": { "CHAOTIC_CUPID": 2, "SINGLE_PRINGLE": 1 }, "redFlag": 1 }
+      }
+    },
+    {
+      "id": 8,
+      "text": "What would your friends say?",
+      "answers": {
+        "A": { "weights": { "SITUATIONSHIP_SURVIVOR": 2 }, "redFlag": 1 },
+        "B": { "weights": { "HOPELESS_ROMANTIC": 2 }, "redFlag": 1 },
+        "C": { "weights": { "VILLAIN_ERA": 2 }, "redFlag": 2 },
+        "D": { "weights": { "DELULU_DREAMER": 2 }, "redFlag": 1 },
+        "E": { "weights": { "CHAOTIC_CUPID": 2 }, "redFlag": 3 }
+      }
+    },
+    {
+      "id": 9,
+      "text": "If someone texts 'I miss you'...",
+      "answers": {
+        "A": { "weights": { "HOPELESS_ROMANTIC": 2 }, "redFlag": 0 },
+        "B": { "weights": { "HEALING_ICON": 2 }, "redFlag": 1 },
+        "C": { "weights": { "SITUATIONSHIP_SURVIVOR": 2 }, "redFlag": 2 },
+        "D": { "weights": { "VILLAIN_ERA": 3 }, "redFlag": 3 },
+        "E": { "weights": { "LOWKEY_LOVER": 2 }, "redFlag": 1 }
+      }
+    },
+    {
+      "id": 10,
+      "text": "Pick a Valentine aesthetic:",
+      "answers": {
+        "A": { "weights": { "HOPELESS_ROMANTIC": 2 }, "redFlag": 0 },
+        "B": { "weights": { "VILLAIN_ERA": 2 }, "redFlag": 1 },
+        "C": { "weights": { "LOWKEY_LOVER": 2 }, "redFlag": 0 },
+        "D": { "weights": { "DELULU_DREAMER": 2 }, "redFlag": 0 },
+        "E": { "weights": { "CHAOTIC_CUPID": 2 }, "redFlag": 1 }
+      }
+    }
+  ]
+}
